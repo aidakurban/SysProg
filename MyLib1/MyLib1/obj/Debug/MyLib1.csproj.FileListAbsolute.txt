@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\MyLib1\MyLib1\bin\Debug\MyLib1.exe.config
+C:\Users\user\source\repos\MyLib1\MyLib1\bin\Debug\MyLib1.exe
+C:\Users\user\source\repos\MyLib1\MyLib1\bin\Debug\MyLib1.pdb
+C:\Users\user\source\repos\MyLib1\MyLib1\obj\Debug\MyLib1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyLib1\MyLib1\obj\Debug\MyLib1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\MyLib1\MyLib1\obj\Debug\MyLib1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyLib1\MyLib1\obj\Debug\MyLib1.exe
+C:\Users\user\source\repos\MyLib1\MyLib1\obj\Debug\MyLib1.pdb
